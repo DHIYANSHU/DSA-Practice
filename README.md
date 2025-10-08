@@ -11,6 +11,11 @@ Python DSA practice repo for Microsoft prep.
 - Check if Array is Sorted
 - Rotate Array by k
 
+##Day 3
+- Linear Search
+- Binary Search (Iterative)
+- Binary Search (Recursive)
+
 
 ## Goals
 - Solve 200+ problems
